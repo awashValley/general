@@ -1,0 +1,8 @@
+# to search email
+  from:Bill 
+  
+# Finding messages with attachments by file extension or words within an attached file
+  ext:docx
+  ext:pdf
+  ext:xlsx
+  ext:zip
